@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MainSceneMenuButton
+  - MenuSceneCategoriesButton
+  - Shop
+  - test
+  - test2
+  - Food
+  - ShoppingBasket
+  - ShoppingBasketFood
+  - Quit
+  - Tutorial
+  - Option
+  - Drink
+  - Coffee
+  - Menu_1
+  - Menu_2
+  - Menu_3
+  - Menu_4
+  - Menu_5
+  - Menu_6
+  - Menu_7
+  - Menu_8
+  - Menu_9
+  - Menu_10
+  - Menu_11
+  - Menu_12
+  - Menu_13
+  - Menu_14
+  - Menu_15
+  - Menu_16
+  - Menu_17
+  - Menu_18
+  - Menu_19
+  - Menu_20
+  - Menu_21
+  - Menu_22
+  - Menu_23
+  - Menu_24
+  - Menu_25
+  - Menu_26
+  - TestOne
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
